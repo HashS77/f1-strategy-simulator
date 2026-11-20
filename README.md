@@ -11,6 +11,7 @@ A command-line Formula 1 race strategy simulator written in Python. The program 
 - Tire cliff and puncture penalties
 - User-selected replacement tire compounds
 - Stint summaries and final race statistics
+- Now, in V2, the engine modes has been added along with fuel based dnf
 
 ## Requirements
 
